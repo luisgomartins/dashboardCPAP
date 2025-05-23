@@ -1,1 +1,1 @@
-web: gunicorn seuscript:server
+web: gunicorn dashboard:server
